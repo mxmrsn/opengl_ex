@@ -1,4 +1,3 @@
 build/*
 .vscode/*
-external/*
 include/common/*
